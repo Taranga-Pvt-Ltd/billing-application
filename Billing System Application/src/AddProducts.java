@@ -104,7 +104,7 @@ public class AddProducts extends JFrame {
 
 		
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-		setBounds(350, 100, 700, 500);
+		setBounds(350, 100, 700);
 		contentPane = new JPanel();
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
