@@ -73,7 +73,7 @@ public class MainPage {
 				String JDBC_DRIVER="com.mysql.jdbc.Driver";
 				String DB_URL="jdbc:mysql://localhost/billing_system";
 				String DB_USER="root";
-				String DB_Pass="";
+				String DB_Pass="root";
 				
 				String create_table="create table UserTable(Name varchar(20),UserName varchar(20),Password varchar(20),Organisation varchar(20),DOB varchar(20),Mobile_Number(20))";
 				try
